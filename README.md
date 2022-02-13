@@ -12,3 +12,5 @@ Contact Info:
 Email: jameskong098@gmail.com
 
 Linkedin: https://www.linkedin.com/in/jamesdemingkong/
+
+Discord: JimboKimboBimbo#4459
