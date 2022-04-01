@@ -6,12 +6,13 @@ engineering principles such as shell programming and scripting using bash and ma
 Python to younger kids, as I currently teach ages 8-18 at Juni Learning. I also like to play various kinds of video games, whether it be on the nintendo switch or on my gaming laptop. Feel free
 to message me for collaborating on something cool or just for hitting me up for a game!
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jameskong098&show_icons=true&theme=radical)
-
-Contact Info:
-
 Email: jameskong098@gmail.com
 
 Linkedin: https://www.linkedin.com/in/jamesdemingkong/
 
 Discord: JimboKimboBimbo#4459
+
+![Top Languages](https://github-readme-stats.vercel.app/api?username=jameskong098&count_private=true&show_icons=true&theme=radical)      
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jameskong098&show_icons=true&theme=radical)
+
