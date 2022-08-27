@@ -14,4 +14,4 @@ Discord: JimboKimboBimbo#4459
 
 ![Top Languages](https://github-readme-stats.vercel.app/api?username=jameskong098&count_private=true&show_icons=true&theme=github_dark)      
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jameskong098&show_icons=true&theme=github_dark)
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jameskong098&show_icons=true&theme=github_dark) -->
