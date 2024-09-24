@@ -1,10 +1,6 @@
 Hi! 
 
-My name is James Kong, and I am an undergraduate at Brandeis University pursuing a B.S degree in Computer Science. I have always had a mindset of perseverance, and I welcome all 
-forms of collaboration with others. I have experience with OOP and data structures in Java from school courses and independent projects made for fun. I am currently studying operating systems and software 
-engineering principles such as shell programming and scripting using bash and makefiles, releasing apps using containers using docker, and etc. During my spare time, I also enjoy teaching introductory 
-Python to younger kids, as I currently teach ages 8-18 at Juni Learning. I also like to play various kinds of video games, whether it be on the nintendo switch or on my gaming laptop. Feel free
-to message me for collaborating on something cool or just for hitting me up for a game!
+I'm James Kong, a driven Computer Science student at Brandeis University with a knack for solving technical challenges. I've gained hands-on experience as an IT Help Desk Technician and Software Engineer Intern, where I've excelled in troubleshooting and developing innovative solutions. As a Lead Mobile App Developer, I've led a talented team in crafting a popular React Native app, showcasing my ability to collaborate and deliver user-focused solutions. I bring a strong foundation in Java, Python, and JavaScript, along with a passion for exploring new technologies.
 
 Email: jameskong098@gmail.com
 
