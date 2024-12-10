@@ -6,7 +6,7 @@ Email: jameskong098@gmail.com
 
 Linkedin: https://www.linkedin.com/in/jamesdemingkong/
 
-Discord: JimboKimboBimbo#4459
+Discord: JimboKimboBimbo
 
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api?username=jameskong098&count_private=true&show_icons=true&theme=github_dark) -->
 
