@@ -10,7 +10,7 @@ I enjoy tackling challenges across the tech stack and am always excited to build
 
 **Email:** jameskong098@gmail.com
 
-**Linkedin:** https://www.linkedin.com/in/jamesdemingkong/
+**Linkedin:** [linkedin.com/in/jamesdemingkong/](https://www.linkedin.com/in/jamesdemingkong/)
 
 **Discord:** JimboKimboBimbo
 
