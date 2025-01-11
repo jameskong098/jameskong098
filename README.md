@@ -6,11 +6,13 @@ Currently pursuing an MS in Computer Science at Brandeis University, I’ve work
 
 I enjoy tackling challenges across the tech stack and am always excited to build innovative solutions. Let’s connect and explore opportunities to collaborate!
 
-Email: jameskong098@gmail.com
+**Personal Website**: [jamesdkong.engineer](https://jamesdkong.engineer)
 
-Linkedin: https://www.linkedin.com/in/jamesdemingkong/
+**Email:** jameskong098@gmail.com
 
-Discord: JimboKimboBimbo
+**Linkedin:** https://www.linkedin.com/in/jamesdemingkong/
+
+**Discord:** JimboKimboBimbo
 
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api?username=jameskong098&count_private=true&show_icons=true&theme=github_dark) -->
 
