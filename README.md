@@ -6,7 +6,7 @@ Currently pursuing an MS in Computer Science at Brandeis University, I’ve work
 
 I enjoy tackling challenges across the tech stack and am always excited to build innovative solutions. Let’s connect and explore opportunities to collaborate!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jameskong098&layout=compact&theme=city_lights&langs_count=10)](https://github.com/jameskong098/github-readme-stats)
+<!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jameskong098&layout=compact&theme=city_lights&langs_count=10)](https://github.com/jameskong098/github-readme-stats) -->
 
 **Personal Website**: [jamesdkong.engineer](https://jamesdkong.engineer)
 
